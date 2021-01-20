@@ -1,4 +1,4 @@
-# react_chess_client
+# chess client built in react
 
 getting started
 
