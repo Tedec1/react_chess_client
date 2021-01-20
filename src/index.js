@@ -14,9 +14,9 @@ import {
 const App = (props) => {
     return  <>  
                 <nav>
-                    <Link to="/Lobby"> Lobby</Link>
-                    <Link to="/Board"> Practice Board</Link>
-                    <Link to='/'> Home </Link>
+                    <Link to='/'>Home </Link>
+                    <Link to="/Lobby">Lobby</Link>
+                    <Link to="/Board">Practice Board</Link>
                 </nav>
                 <main>
                     <Route exact path='/'>
