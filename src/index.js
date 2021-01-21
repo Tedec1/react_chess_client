@@ -15,7 +15,7 @@ const App = (props) => {
     return  <>  
                 <nav>
                     <Link to='/'>Home </Link>
-                    <Link to="/Lobby">Lobby</Link>
+                    <Link to="/Lobby">Lobby's</Link>
                     <Link to="/Board">Practice Board</Link>
                 </nav> 
                 <main>
