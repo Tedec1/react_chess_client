@@ -17,7 +17,7 @@ const App = (props) => {
                     <Link to='/'>Home </Link>
                     <Link to="/Lobby">Lobby</Link>
                     <Link to="/Board">Practice Board</Link>
-                </nav>
+                </nav> 
                 <main>
                     <Route exact path='/'>
                         <Home />
